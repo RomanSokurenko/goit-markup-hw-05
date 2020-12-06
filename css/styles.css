@@ -91,7 +91,7 @@ a{text-decoration: none;}
 }
 
 .menu{
-display: inline-flex;
+display:flex;
 padding: 0px;
 margin: 0px;
 }
@@ -106,7 +106,7 @@ margin: 0px;
 }
 .navigation{
   display: flex;
-  align-items: baseline;
+  align-items: center;
   margin-right: auto;
 }
  .active-page::after{
