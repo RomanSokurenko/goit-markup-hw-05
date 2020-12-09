@@ -151,7 +151,7 @@ margin: 0px;
 .header-container{
   display: flex;
   justify-content: flex-end;
-  align-items: center;
+  
 }
 
 .menu-logo{
@@ -384,7 +384,7 @@ color:var(--black);
   justify-content: flex-end;
   align-items: center;
   font-family: Roboto;
-  padding-top:94px ;
+  margin-top: 94px;
   margin-bottom: 50px;
   margin-left: auto;
   margin-right: auto;
@@ -592,8 +592,6 @@ width: 100%;
 overflow: hidden;
 
 }
-
-
  .overlay .text-overlay{
   position: absolute;
   padding: 63px 24px;
@@ -637,7 +635,7 @@ flex-basis: calc(100% / 9 - 30px);
 }
 
 .clients{
-  padding-top: 94px;
+  margin-top: 94px;
   font-family: Roboto;
 font-style: normal;
 font-weight: bold;
